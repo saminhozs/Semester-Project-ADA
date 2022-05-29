@@ -8,4 +8,6 @@ Thank you for reading this project, I hope that you enjoy it as much as I enjoye
 
 Samy :) 
 
+PS: Research paper will soon be available 
+
 Data Extraction code is inspired from Tomi Gelo's code, here is the link for his repository : https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb
