@@ -5,4 +5,6 @@ I used Machine Learning and Deep Learning models to carry out this project.
 Results are promising, even though we could have taken them even further by encoding the artists names, or by using Natural Language Processing to get a view of the lyrics as well. 
 One can imagine that if these models are taken even further, it could be possible to get the perfect hit recipe and help some artists to follow their dream and pursue a career in music by helping them produce songs that are a perfect mix of the relevant attributes.
 Thank you for reading this project, I hope that you enjoy it as much as I enjoyed make making it.
-Samy :) 
+Samy :) \n
+
+Data Extraction code is inspired from Tomi Gelos' code, here is the link for his repository : https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb
